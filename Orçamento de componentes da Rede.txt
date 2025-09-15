@@ -1,0 +1,20 @@
+Orçamento de componentes da Rede:
+
+ 	Roteador/Firewall:
+FORTINET FORTIGATE 60F + UNIFIED THREAT PROTECTION (UTP) - (link) - R$ 12.394,90
+ 	APs:
+Access Point Ubiquiti UniFi Wi-Fi 5 Indoor/Outdoor Kit com 5x UAP-AC-PRO-5 - (link) - R$ 4.983,70
+
+ 	Switches:
+Principal -> Switch TP-LINK Sg2428p 24 Portas - (link) - R$ 2.699,99
+
+Segundarios -> Switch TP-LINK TL-SG3452 48 Portas e 4 SFP - T2600G-52TS - (link) - R$ 2.998,00_x3
+
+Suporte -> TP-Link LS105G 5 Portas - (link) - R$ 120,83
+
+ 	Cabos:
+Cabo Lan Furukawa Sohoplus Cat6 305m Cmx Azul - (link) - R$ 1.115,50
+
+ 	Maquinas:
+Cpu + Monitor Dell Optiplex 3050 Core I5 7ger 8gb 240gb Ssd - (link) - R$ 2.564,05
+Notebook Dell Inspiron 7440 2 em 1 Intel i5 1334U RAM 16GB i7445-7326 - (link) - R4 5.598,00

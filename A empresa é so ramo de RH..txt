@@ -1,0 +1,78 @@
+A empresa é so ramo de RH.
+
+Temos 6 setores no total, são eles:
+- Financeiro
+- Treinamento
+- Vendas
+- Departamento Pessoal
+- Administrativo
+- Recrutamento
+- TI
+
+Estimativa de quantidade de funcionário da setor:
+- Financeiro: 6 pessoas.
+6 computadores.
+6 Laptops
+6 smartphone
+2 televisões
+2 impressoras
+6 Telefones
+
+- Treinamento: 6 pessoas
+6 Computadores
+6 Laptops
+6 Smartphone
+2 Televisões
+2 impressoras
+6 Telefones
+
+- Vendas: 3 Pessoas
+3 Computadores
+3 Laptops
+3 Smartphone
+1 Televisão 
+1 impressoras
+3 Telefones
+
+- Departamento Pessoal: 3 pessoas
+3 Computadores
+3 Laptops
+3 Smartphone
+1 Televisão 
+1 impressoras
+3 Telefones
+
+- Administrativo: 3 pessoas
+3 Computadores
+3 Laptops
+3 Smartphone
+1 Televisões
+2 impressoras
+3 Telefones
+
+- Recrutamento: 6 pessoas
+6 Computadores
+6 Laptops
+6 Smartphone
+1 Televisões
+1 impressoras
+6 Telefones
+
+- TI: 4 pessoas
+5 Computadores
+4 Laptops
+4 Smartphone
+1 Televisões
+1 impressoras
+2 Telefones
+
+Areas:
+- Recepção: 2 Pessoas
+2 Computadores
+2 Smartphone
+1 impressora
+2 televisões
+2 Telefones
+
+- Refeitório:
+1 televisão
